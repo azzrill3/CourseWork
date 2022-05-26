@@ -1,0 +1,14 @@
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.GameForm.resources
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Xna.Framework.dll
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\ConsoleApps\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
